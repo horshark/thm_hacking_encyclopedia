@@ -22,3 +22,7 @@ On twitter:
 
 Or on THM official discord:
 https://discord.gg/GzVZtGX
+
+
+### Credit
+Thanks to everyone who contributed to making the Advent of Cyber's support resources and to THM staff for making such a good work.

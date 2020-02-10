@@ -5,6 +5,9 @@ This is a PDF that has originally been made to regroup all resources published b
 The resources made available were huge and they are quality content. I thought they would deserve a well formated and compact document.
 At first I wanted to make it for myself to go over when I had a doubt, and I figured it could be handy to a lot of people out there.
 
+## The PDF is fat, it's hard to naviguate through it
+If you download it, you should be able to naviguate through it by clicking the titles in the SUMMARY, and you should also be able to show/hide each day by clicking the arrow next to each title.
+
 ## Why make a repo?
 1. To make sharing easier.
 2. To allow people making suggestions/corrections. (using issues)
